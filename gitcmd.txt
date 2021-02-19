@@ -16,3 +16,9 @@ CMD - ls
 
 To show file content
 CMD - cat filename
+
+To create new branch
+CMD - git branch branchname
+
+To move inside the branch
+CMD - git checkout branch name
