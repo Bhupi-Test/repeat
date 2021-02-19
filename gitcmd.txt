@@ -1,0 +1,18 @@
+To linkup the local repo and central repo to pull/push the file.
+CMD - git remote add oigin "central repo path"
+
+
+To initialize local repo
+CMD - git init
+
+To Add file into index
+CMD - git add -A
+
+To commit the file
+CMD - git commit -a -m "msg"
+
+To show file list
+CMD - ls
+
+To show file content
+CMD - cat filename
