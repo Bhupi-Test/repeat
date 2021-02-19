@@ -22,3 +22,6 @@ CMD - git branch branchname
 
 To move inside the branch
 CMD - git checkout branch name
+
+To push the file to central repo
+CMD - git push origin branchname
