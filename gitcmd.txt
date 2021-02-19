@@ -25,3 +25,6 @@ CMD - git checkout branch name
 
 To push the file to central repo
 CMD - git push origin branchname
+
+To rollback file
+CMD - git checkout 'version number' filename
